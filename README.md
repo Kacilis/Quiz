@@ -1,1 +1,1 @@
-A collection of mini programs I have made into a quiz
+A collection of mini programs I have turned into a quiz
